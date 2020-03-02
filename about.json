@@ -1,0 +1,27 @@
+{
+  "name": "yotsuba b",
+  "component": false,
+  "license_url": https://github.com/iji-cx/discourse-yotsuba-b/blob/master/LICENSE,
+  "about_url": https://github.com/iji-cx/discourse-yotsuba-b,
+  "authors": Noba,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Yotsuba B": {
+      "primary": "af0a0f",
+      "secondary": "ffffff",
+      "tertiary": "0088cc",
+      "quaternary": "9988ee",
+      "header_background": "9988ee",
+      "header_primary": "9988ee",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
